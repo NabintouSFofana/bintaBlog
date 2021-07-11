@@ -1,0 +1,1393 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clymene Theme v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-14 03:05:45+0000\n"
+"Last-Translator: admin <nhatdt90@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: archive.php:16
+#, php-format
+#@ clymene
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:19
+#, php-format
+#@ clymene
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:19
+#@ clymene
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:22
+#, php-format
+#@ clymene
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:22
+#@ clymene
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:25
+#@ clymene
+msgid "Archives"
+msgstr ""
+
+#: archive.php:46
+#: author.php:33
+#: category.php:30
+#: index.php:62
+#: page-templates/template-2cols-grid.php:133
+#: page-templates/template-2cols-masonry.php:131
+#: page-templates/template-3cols-grid.php:134
+#: page-templates/template-3cols-masonry.php:132
+#: page-templates/template-4cols-grid.php:135
+#: page-templates/template-4cols-masonry.php:132
+#: page-templates/template-blog-grid.php:132
+#: page-templates/template-blog-left.php:92
+#: page-templates/template-blog-right.php:87
+#: page-templates/template-blog.php:86
+#: page-templates/template-left-grid.php:132
+#: page-templates/template-right-grid.php:127
+#: search.php:30
+#: tag.php:30
+#@ clymene
+msgid "Nothing Found Here!"
+msgstr ""
+
+#: author.php:15
+#, php-format
+#@ clymene
+msgid "All posts by: %s"
+msgstr ""
+
+#: category.php:13
+#, php-format
+#@ $textdoimain
+msgid "Category: %s"
+msgstr ""
+
+#: comments.php:22
+#@ clymene
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:23
+#@ clymene
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:28
+#@ CNE
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:135
+#@ clymene
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:137
+#@ clymene
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#: functions.php:144
+#@ envor
+msgid "Footer One Widget Area"
+msgstr ""
+
+#: functions.php:146
+#: functions.php:156
+#: functions.php:166
+#: functions.php:176
+#@ envor
+msgid "Footer Widget that appears on the Footer."
+msgstr ""
+
+#: functions.php:154
+#@ envor
+msgid "Footer Two Widget Area"
+msgstr ""
+
+#: functions.php:164
+#@ envor
+msgid "Footer Three Widget Area"
+msgstr ""
+
+#: functions.php:174
+#@ envor
+msgid "Footer Fourth Widget Area"
+msgstr ""
+
+#: functions.php:286
+#@ clymene
+msgid "type to search and hit enter"
+msgstr ""
+
+#: functions.php:298
+#, php-format
+#@ clymene
+msgid "%s"
+msgstr ""
+
+#: functions.php:300
+#@ clymene
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:340
+#@ wpb
+msgid "Section Full Width?"
+msgstr ""
+
+#: functions.php:343
+#@ wpb
+msgid "Section full width or not, Default: not fullwidth"
+msgstr ""
+
+#: functions.php:419
+#@ truehost
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:420
+#@ truehost
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:421
+#, php-format
+#@ truehost
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:422
+#@ truehost
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:424
+#, php-format
+#@ clymene
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:429
+#, php-format
+#@ clymene
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:434
+#, php-format
+#@ clymene
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:439
+#, php-format
+#@ clymene
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:444
+#, php-format
+#@ clymene
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:449
+#, php-format
+#@ clymene
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:454
+#, php-format
+#@ clymene
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:459
+#, php-format
+#@ clymene
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:464
+#@ clymene
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:469
+#@ clymene
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:473
+#@ truehost
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:474
+#@ truehost
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:475
+#, php-format
+#@ truehost
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:476
+#@ tgmpa
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: header-onepage.php:72
+#: header.php:75
+#@ clymene
+msgid "Search..."
+msgstr ""
+
+#: index.php:13
+#@ clymene
+msgid "Blog"
+msgstr ""
+
+#: index.php:23
+#@ clymene
+msgid " posts"
+msgstr ""
+
+#: index.php:33
+#@ clymene
+msgid " authors"
+msgstr ""
+
+#: index.php:43
+#@ clymene
+msgid " comments"
+msgstr ""
+
+#: search.php:13
+#, php-format
+#@ clymene
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:13
+#@ clymene
+msgid "Author: "
+msgstr ""
+
+#: single.php:130
+#@ clymene
+msgid "Categories: "
+msgstr ""
+
+#: single.php:130
+#@ clymene
+msgid "Tags: "
+msgstr ""
+
+#: single.php:133
+#@ clymene
+msgid "Comments "
+msgstr ""
+
+#: tag.php:13
+#, php-format
+#@ theway
+msgid "Tags: %s"
+msgstr ""
+
+#: vc_shortcode.php:8
+#@ clymene
+msgid " Heading"
+msgstr ""
+
+#: vc_shortcode.php:28
+#@ clymene
+msgid "Text"
+msgstr ""
+
+#: vc_shortcode.php:41
+#@ clymene
+msgid "Element Tag"
+msgstr ""
+
+#: vc_shortcode.php:46
+#@ clymene
+msgid "Select Tag"
+msgstr ""
+
+#: vc_shortcode.php:48
+#@ clymene
+msgid "h1"
+msgstr ""
+
+#: vc_shortcode.php:50
+#@ clymene
+msgid "h2"
+msgstr ""
+
+#: vc_shortcode.php:52
+#@ clymene
+msgid "h3"
+msgstr ""
+
+#: vc_shortcode.php:54
+#@ clymene
+msgid "h4"
+msgstr ""
+
+#: vc_shortcode.php:56
+#@ clymene
+msgid "h5"
+msgstr ""
+
+#: vc_shortcode.php:58
+#@ clymene
+msgid "h6"
+msgstr ""
+
+#: vc_shortcode.php:60
+#@ clymene
+msgid "p"
+msgstr ""
+
+#: vc_shortcode.php:62
+#@ clymene
+msgid "div"
+msgstr ""
+
+#: vc_shortcode.php:65
+#@ clymene
+msgid "Section Element Tag"
+msgstr ""
+
+#: vc_shortcode.php:72
+#@ clymene
+msgid "Text Align"
+msgstr ""
+
+#: vc_shortcode.php:78
+#@ clymene
+msgid "inherit"
+msgstr ""
+
+#: vc_shortcode.php:80
+#@ clymene
+msgid "left"
+msgstr ""
+
+#: vc_shortcode.php:82
+#@ clymene
+msgid "right"
+msgstr ""
+
+#: vc_shortcode.php:84
+#@ clymene
+msgid "center"
+msgstr ""
+
+#: vc_shortcode.php:86
+#@ clymene
+msgid "justify"
+msgstr ""
+
+#: vc_shortcode.php:90
+#@ clymene
+msgid "Select One"
+msgstr ""
+
+#: vc_shortcode.php:101
+#@ clymene
+msgid "Font Size"
+msgstr ""
+
+#: vc_shortcode.php:118
+#@ clymene
+msgid "Color"
+msgstr ""
+
+#: vc_shortcode.php:135
+#@ clymene
+msgid "Margin Bottom"
+msgstr ""
+
+#: vc_shortcode.php:152
+#@ clymene
+msgid "Class Extra"
+msgstr ""
+
+#: vc_shortcode.php:171
+#@ default
+msgid " Button"
+msgstr ""
+
+#: vc_shortcode.php:190
+#@ clymene
+msgid "Button Icon"
+msgstr ""
+
+#: vc_shortcode.php:196
+#@ clymene
+msgid "Button with icon. Find here: <a target='_blank' href='http://fontawesome.io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+#: vc_shortcode.php:207
+#@ clymene
+msgid "Icon After?"
+msgstr ""
+
+#: vc_shortcode.php:213
+#@ clymene
+msgid "Position icon after or before label button. Defaul: before."
+msgstr ""
+
+#: vc_shortcode.php:224
+#@ clymene
+msgid "Button Text"
+msgstr ""
+
+#: vc_shortcode.php:241
+#@ clymene
+msgid "Button Link"
+msgstr ""
+
+#: vc_shortcode.php:259
+#@ clymene
+msgid "Button Type"
+msgstr ""
+
+#: vc_shortcode.php:264
+#@ clymene
+msgid "Version 1: Border"
+msgstr ""
+
+#: vc_shortcode.php:266
+#@ clymene
+msgid "Version 2: Dark"
+msgstr ""
+
+#: vc_shortcode.php:268
+#@ clymene
+msgid "Version 3: Color"
+msgstr ""
+
+#: vc_shortcode.php:282
+#@ clymene
+msgid "Button Size"
+msgstr ""
+
+#: vc_shortcode.php:288
+#@ clymene
+msgid "Size 1"
+msgstr ""
+
+#: vc_shortcode.php:290
+#@ clymene
+msgid "Size 2"
+msgstr ""
+
+#: vc_shortcode.php:292
+#@ clymene
+msgid "Size 3"
+msgstr ""
+
+#: vc_shortcode.php:294
+#@ clymene
+msgid "Size 4"
+msgstr ""
+
+#: vc_shortcode.php:296
+#@ clymene
+msgid "Size 5"
+msgstr ""
+
+#: vc_shortcode.php:298
+#@ clymene
+msgid "Size 6"
+msgstr ""
+
+#: vc_shortcode.php:300
+#@ clymene
+msgid "Size 7"
+msgstr ""
+
+#: vc_shortcode.php:302
+#@ clymene
+msgid "Big Button"
+msgstr ""
+
+#: vc_shortcode.php:316
+#@ clymene
+msgid "Margin(top right bottom left)"
+msgstr ""
+
+#: vc_shortcode.php:322
+#@ clymene
+msgid "Follow order: top right bottom left. Ex: 10px 5px 5px 10px"
+msgstr ""
+
+#: vc_shortcode.php:334
+#@ default
+msgid "Home Video"
+msgstr ""
+
+#: vc_shortcode.php:393
+#@ default
+msgid "Project Info"
+msgstr ""
+
+#: vc_shortcode.php:412
+#@ clymene
+msgid "Detail Infomation"
+msgstr ""
+
+#: vc_shortcode.php:415
+#@ clymene
+msgid ""
+"Example: &lt;ul&gt;\n"
+"&lt;li&gt;&lt;i class='fa fa-paper-plane-o'&gt;&lt;/i&gt;&lt;strong&gt;Created by:&lt;/strong&gt; Company Name&lt;/li&gt;\n"
+"&lt;/ul&gt;"
+msgstr ""
+
+#: vc_shortcode.php:437
+#@ clymene
+msgid "Gallery Project"
+msgstr ""
+
+#: vc_shortcode.php:456
+#@ clymene
+msgid "Show Title?"
+msgstr ""
+
+#: vc_shortcode.php:460
+#@ clymene
+msgid "No"
+msgstr ""
+
+#: vc_shortcode.php:462
+#@ clymene
+msgid "Yes"
+msgstr ""
+
+#: vc_shortcode.php:476
+#@ clymene
+msgid " Clients Logo"
+msgstr ""
+
+#: vc_shortcode.php:489
+#@ clymene
+msgid "Use when creat many carousels on page. Maybe empty."
+msgstr ""
+
+#: vc_shortcode.php:507
+#@ clymene
+msgid "Recommend number: 3, 4 or 5."
+msgstr ""
+
+#: vc_shortcode.php:516
+#@ clymene
+msgid "Images Carousel"
+msgstr ""
+
+#: vc_shortcode.php:538
+#@ clymene
+msgid "Number colunms images. Ex: 3. Default: 4"
+msgstr ""
+
+#: vc_shortcode.php:547
+#: vc_shortcode.php:587
+#: vc_shortcode.php:666
+#@ clymene
+msgid "Space between images."
+msgstr ""
+
+#: vc_shortcode.php:556
+#@ clymene
+msgid "Projects Carousel"
+msgstr ""
+
+#: vc_shortcode.php:569
+#: vc_shortcode.php:639
+#@ clymene
+msgid "Input -1 if want to show all."
+msgstr ""
+
+#: vc_shortcode.php:578
+#@ clymene
+msgid "Number colunms portfolio. Ex: 3. Default: 4"
+msgstr ""
+
+#: vc_shortcode.php:596
+#@ clymene
+msgid "Choose background color for text bottom image."
+msgstr ""
+
+#: vc_shortcode.php:606
+#@ clymene
+msgid "Carousels Type"
+msgstr ""
+
+#: vc_shortcode.php:611
+#@ clymene
+msgid "Type 1: Text Bottom"
+msgstr ""
+
+#: vc_shortcode.php:613
+#@ clymene
+msgid "Type 2: Image Only"
+msgstr ""
+
+#: vc_shortcode.php:616
+#@ clymene
+msgid "Choose Carousels Type"
+msgstr ""
+
+#: vc_shortcode.php:626
+#@ clymene
+msgid "Blog Carousel"
+msgstr ""
+
+#: vc_shortcode.php:648
+#@ clymene
+msgid "Number colunms post. Ex: 3. Default: 4"
+msgstr ""
+
+#: vc_shortcode.php:657
+#@ clymene
+msgid "Choose background color for item blog."
+msgstr ""
+
+#: vc_shortcode.php:676
+#@ clymene
+msgid "Process Steps"
+msgstr ""
+
+#: vc_shortcode.php:716
+#: vc_shortcode.php:725
+#: vc_shortcode.php:734
+#@ clymene
+msgid "Use for type 2: Timeline"
+msgstr ""
+
+#: vc_shortcode.php:743
+#@ clymene
+msgid "Choose background color for box."
+msgstr ""
+
+#: vc_shortcode.php:753
+#@ clymene
+msgid "Process Type"
+msgstr ""
+
+#: vc_shortcode.php:758
+#@ clymene
+msgid "Type 1: Process Box"
+msgstr ""
+
+#: vc_shortcode.php:760
+#@ clymene
+msgid "Type 2: Process Timeline"
+msgstr ""
+
+#: vc_shortcode.php:763
+#@ clymene
+msgid "Choose Process Type"
+msgstr ""
+
+#: vc_shortcode.php:773
+#@ clymene
+msgid "Alert Boxes"
+msgstr ""
+
+#: vc_shortcode.php:822
+#@ clymene
+msgid "Padding follow: top right bottom left. Ex: 10px. Default: 20px."
+msgstr ""
+
+#: vc_shortcode.php:832
+#@ clymene
+msgid "Title Parallax"
+msgstr ""
+
+#: vc_shortcode.php:872
+#@ clymene
+msgid "Parallax Project"
+msgstr ""
+
+#: vc_shortcode.php:912
+#@ default
+msgid "About Video or Images"
+msgstr ""
+
+#: vc_shortcode.php:922
+#@ clymene
+msgid "Images Left"
+msgstr ""
+
+#: vc_shortcode.php:925
+#@ clymene
+msgid "Upload images left if not use video."
+msgstr ""
+
+#: vc_shortcode.php:934
+#@ clymene
+msgid "Add link vimeo or youtube."
+msgstr ""
+
+#: vc_shortcode.php:943
+#@ clymene
+msgid "Change height video left. Default: 290."
+msgstr ""
+
+#: vc_shortcode.php:949
+#@ clymene
+msgid "Description Right"
+msgstr ""
+
+#: vc_shortcode.php:952
+#@ clymene
+msgid "Content About"
+msgstr ""
+
+#: vc_shortcode.php:961
+#@ clymene
+msgid "Change padding top to text center box. Default: 290px."
+msgstr ""
+
+#: vc_shortcode.php:971
+#@ clymene
+msgid "Team Member"
+msgstr ""
+
+#: vc_shortcode.php:984
+#@ clymene
+msgid "Avarta of member, Recomended Size: 280 x 280"
+msgstr ""
+
+#: vc_shortcode.php:990
+#@ clymene
+msgid "Name"
+msgstr ""
+
+#: vc_shortcode.php:993
+#@ clymene
+msgid "Member's Name"
+msgstr ""
+
+#: vc_shortcode.php:999
+#@ clymene
+msgid "Job"
+msgstr ""
+
+#: vc_shortcode.php:1002
+#@ clymene
+msgid "Member's job."
+msgstr ""
+
+#: vc_shortcode.php:1008
+#: vc_shortcode.php:1577
+#@ clymene
+msgid "Description"
+msgstr ""
+
+#: vc_shortcode.php:1011
+#@ clymene
+msgid "Member's description."
+msgstr ""
+
+#: vc_shortcode.php:1017
+#@ clymene
+msgid "Testimonial"
+msgstr ""
+
+#: vc_shortcode.php:1020
+#@ clymene
+msgid "Member say. Use for team version 2."
+msgstr ""
+
+#: vc_shortcode.php:1026
+#: vc_shortcode.php:1110
+#@ clymene
+msgid "Background Color"
+msgstr ""
+
+#: vc_shortcode.php:1029
+#: vc_shortcode.php:1113
+#@ clymene
+msgid "Color Box."
+msgstr ""
+
+#: vc_shortcode.php:1035
+#@ clymene
+msgid "Icon 1"
+msgstr ""
+
+#: vc_shortcode.php:1038
+#: vc_shortcode.php:1056
+#: vc_shortcode.php:1074
+#: vc_shortcode.php:1325
+#@ clymene
+msgid "Find here: <a target='_blank' href='http://fontawesome.io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+#: vc_shortcode.php:1047
+#: vc_shortcode.php:1065
+#: vc_shortcode.php:1083
+#@ clymene
+msgid "Url."
+msgstr ""
+
+#: vc_shortcode.php:1053
+#@ clymene
+msgid "Icon 2"
+msgstr ""
+
+#: vc_shortcode.php:1071
+#@ clymene
+msgid "Icon 3"
+msgstr ""
+
+#: vc_shortcode.php:1091
+#@ default
+msgid "Team Slider"
+msgstr ""
+
+#: vc_shortcode.php:1104
+#@ clymene
+msgid "Number colunms slider."
+msgstr ""
+
+#: vc_shortcode.php:1121
+#@ default
+msgid "Testimonial Slider"
+msgstr ""
+
+#: vc_shortcode.php:1134
+#@ clymene
+msgid "Number testimonial slider. Show all: -1."
+msgstr ""
+
+#: vc_shortcode.php:1142
+#@ default
+msgid "Call To Action"
+msgstr ""
+
+#: vc_shortcode.php:1152
+#: vc_shortcode.php:1568
+#@ clymene
+msgid "Title"
+msgstr ""
+
+#: vc_shortcode.php:1170
+#: vc_shortcode.php:1447
+#@ clymene
+msgid "Link Button"
+msgstr ""
+
+#: vc_shortcode.php:1179
+#@ clymene
+msgid "Subtitle"
+msgstr ""
+
+#: vc_shortcode.php:1182
+#@ clymene
+msgid "Top subtitle. Use for style 2."
+msgstr ""
+
+#: vc_shortcode.php:1191
+#@ clymene
+msgid "Our Facts"
+msgstr ""
+
+#: vc_shortcode.php:1201
+#@ clymene
+msgid "Title Fact"
+msgstr ""
+
+#: vc_shortcode.php:1204
+#@ clymene
+msgid "Title display in Our Facts box."
+msgstr ""
+
+#: vc_shortcode.php:1210
+#@ clymene
+msgid "Number Fact"
+msgstr ""
+
+#: vc_shortcode.php:1213
+#@ clymene
+msgid "Number display in Our Facts box."
+msgstr ""
+
+#: vc_shortcode.php:1223
+#@ clymene
+msgid "Facts Type"
+msgstr ""
+
+#: vc_shortcode.php:1228
+#@ clymene
+msgid "Style 1: Title Bottom"
+msgstr ""
+
+#: vc_shortcode.php:1230
+#@ clymene
+msgid "Style 2: Title Top"
+msgstr ""
+
+#: vc_shortcode.php:1243
+#@ clymene
+msgid "Our Skill"
+msgstr ""
+
+#: vc_shortcode.php:1253
+#@ clymene
+msgid "Skill Title"
+msgstr ""
+
+#: vc_shortcode.php:1256
+#@ clymene
+msgid "Title display top."
+msgstr ""
+
+#: vc_shortcode.php:1262
+#@ clymene
+msgid "Skill Percent"
+msgstr ""
+
+#: vc_shortcode.php:1265
+#@ clymene
+msgid "Ex: 90."
+msgstr ""
+
+#: vc_shortcode.php:1273
+#@ clymene
+msgid "LightBox"
+msgstr ""
+
+#: vc_shortcode.php:1283
+#@ clymene
+msgid "Image"
+msgstr ""
+
+#: vc_shortcode.php:1286
+#@ clymene
+msgid "Upload Image."
+msgstr ""
+
+#: vc_shortcode.php:1292
+#@ clymene
+msgid "Link Video"
+msgstr ""
+
+#: vc_shortcode.php:1295
+#@ clymene
+msgid "Use for lightbox with video. Empty if not use."
+msgstr ""
+
+#: vc_shortcode.php:1301
+#@ clymene
+msgid "Group?"
+msgstr ""
+
+#: vc_shortcode.php:1304
+#@ clymene
+msgid "Use for lightbox gallery. Empty if use lightbox single."
+msgstr ""
+
+#: vc_shortcode.php:1312
+#@ default
+msgid "Services Box"
+msgstr ""
+
+#: vc_shortcode.php:1331
+#@ clymene
+msgid "Title Service"
+msgstr ""
+
+#: vc_shortcode.php:1334
+#@ clymene
+msgid "Title display in Services box."
+msgstr ""
+
+#: vc_shortcode.php:1340
+#@ clymene
+msgid "Content Service"
+msgstr ""
+
+#: vc_shortcode.php:1343
+#@ clymene
+msgid "About your Services."
+msgstr ""
+
+#: vc_shortcode.php:1349
+#@ clymene
+msgid "Background Color Box"
+msgstr ""
+
+#: vc_shortcode.php:1352
+#@ clymene
+msgid "Choose color services box."
+msgstr ""
+
+#: vc_shortcode.php:1362
+#@ clymene
+msgid "Service Style"
+msgstr ""
+
+#: vc_shortcode.php:1367
+#@ clymene
+msgid "Style 1: Icon Left"
+msgstr ""
+
+#: vc_shortcode.php:1369
+#@ clymene
+msgid "Style 2: Icon Center"
+msgstr ""
+
+#: vc_shortcode.php:1383
+#@ clymene
+msgid " Pricing Table"
+msgstr ""
+
+#: vc_shortcode.php:1393
+#@ clymene
+msgid "Title Pricing"
+msgstr ""
+
+#: vc_shortcode.php:1396
+#@ clymene
+msgid "Title display in Pricing Table."
+msgstr ""
+
+#: vc_shortcode.php:1402
+#@ clymene
+msgid "Price Pricing"
+msgstr ""
+
+#: vc_shortcode.php:1405
+#@ clymene
+msgid "Price display in Pricing Table."
+msgstr ""
+
+#: vc_shortcode.php:1411
+#@ clymene
+msgid "Unit"
+msgstr ""
+
+#: vc_shortcode.php:1420
+#@ clymene
+msgid "Time"
+msgstr ""
+
+#: vc_shortcode.php:1423
+#@ clymene
+msgid "Per Month or Year display in Pricing Table."
+msgstr ""
+
+#: vc_shortcode.php:1429
+#@ clymene
+msgid "Detail Pricing"
+msgstr ""
+
+#: vc_shortcode.php:1432
+#@ clymene
+msgid "Content Pricing Table."
+msgstr ""
+
+#: vc_shortcode.php:1438
+#: vc_shortcode.php:1686
+#@ clymene
+msgid "Label Button"
+msgstr ""
+
+#: vc_shortcode.php:1441
+#@ clymene
+msgid "Text display in button."
+msgstr ""
+
+#: vc_shortcode.php:1450
+#@ clymene
+msgid "Link in button."
+msgstr ""
+
+#: vc_shortcode.php:1456
+#@ clymene
+msgid "Width Box"
+msgstr ""
+
+#: vc_shortcode.php:1459
+#@ clymene
+msgid "Use when haven't space between colunms. Ex: 25%, 33.33%, 20%."
+msgstr ""
+
+#: vc_shortcode.php:1465
+#@ clymene
+msgid "Featured Pricing?"
+msgstr ""
+
+#: vc_shortcode.php:1476
+#@ clymene
+msgid "Portfolio Filter"
+msgstr ""
+
+#: vc_shortcode.php:1486
+#@ clymene
+msgid "Text Show All Portfolio"
+msgstr ""
+
+#: vc_shortcode.php:1489
+#@ clymene
+msgid "Text Filter Show All Portfolio."
+msgstr ""
+
+#: vc_shortcode.php:1495
+#@ clymene
+msgid "Number Projects"
+msgstr ""
+
+#: vc_shortcode.php:1498
+#@ clymene
+msgid "Input number projects. Show all: -1. Default: 9."
+msgstr ""
+
+#: vc_shortcode.php:1504
+#@ clymene
+msgid "Hide Content Bottom?"
+msgstr ""
+
+#: vc_shortcode.php:1507
+#@ clymene
+msgid "Show Title and Excerpt Bottom."
+msgstr ""
+
+#: vc_shortcode.php:1513
+#@ clymene
+msgid "Masonry Portfolio?"
+msgstr ""
+
+#: vc_shortcode.php:1516
+#@ clymene
+msgid "Masonry or Grid."
+msgstr ""
+
+#: vc_shortcode.php:1526
+#@ clymene
+msgid "Number Colunms"
+msgstr ""
+
+#: vc_shortcode.php:1531
+#@ clymene
+msgid "4 Colunms"
+msgstr ""
+
+#: vc_shortcode.php:1533
+#@ clymene
+msgid "3 Colunms"
+msgstr ""
+
+#: vc_shortcode.php:1535
+#@ clymene
+msgid "2 Colunms"
+msgstr ""
+
+#: vc_shortcode.php:1549
+#@ clymene
+msgid "Contact Info"
+msgstr ""
+
+#: vc_shortcode.php:1559
+#: vc_shortcode.php:1598
+#@ clymene
+msgid "Icon"
+msgstr ""
+
+#: vc_shortcode.php:1562
+#@ clymene
+msgid "Icon before title info"
+msgstr ""
+
+#: vc_shortcode.php:1571
+#@ clymene
+msgid "Title info"
+msgstr ""
+
+#: vc_shortcode.php:1580
+#@ clymene
+msgid "Description info"
+msgstr ""
+
+#: vc_shortcode.php:1588
+#@ clymene
+msgid "Social Item"
+msgstr ""
+
+#: vc_shortcode.php:1601
+#@ clymene
+msgid "Icon Social."
+msgstr ""
+
+#: vc_shortcode.php:1607
+#@ clymene
+msgid "Link"
+msgstr ""
+
+#: vc_shortcode.php:1610
+#@ clymene
+msgid "Link Social."
+msgstr ""
+
+#: vc_shortcode.php:1616
+#@ clymene
+msgid "Text Tootip"
+msgstr ""
+
+#: vc_shortcode.php:1619
+#@ clymene
+msgid "Description Social."
+msgstr ""
+
+#: vc_shortcode.php:1627
+#@ clymene
+msgid "Comparison Images"
+msgstr ""
+
+#: vc_shortcode.php:1637
+#@ clymene
+msgid "Image 1"
+msgstr ""
+
+#: vc_shortcode.php:1640
+#@ clymene
+msgid "Upload image 1."
+msgstr ""
+
+#: vc_shortcode.php:1646
+#@ clymene
+msgid "Image 2"
+msgstr ""
+
+#: vc_shortcode.php:1649
+#@ clymene
+msgid "Upload image 2."
+msgstr ""
+
+#: vc_shortcode.php:1655
+#@ clymene
+msgid "Vertical Slider?"
+msgstr ""
+
+#: vc_shortcode.php:1658
+#@ clymene
+msgid "Default Horizontal."
+msgstr ""
+
+#: vc_shortcode.php:1667
+#@ clymene
+msgid "Google Maps"
+msgstr ""
+
+#: vc_shortcode.php:1677
+#@ clymene
+msgid "Always Show Map?"
+msgstr ""
+
+#: vc_shortcode.php:1680
+#@ clymene
+msgid "Always show map or click button to show."
+msgstr ""
+
+#: vc_shortcode.php:1695
+#@ clymene
+msgid "Latitude"
+msgstr ""
+
+#: vc_shortcode.php:1704
+#@ clymene
+msgid "Longitude"
+msgstr ""
+
+#: vc_shortcode.php:1713
+#@ clymene
+msgid "Location Image"
+msgstr ""
+
+#: vc_shortcode.php:1716
+#@ clymene
+msgid "Upload Location Image."
+msgstr ""
+
+#: vc_shortcode.php:1722
+#@ clymene
+msgid "Tootip Location Click"
+msgstr ""
+
+#: vc_shortcode.php:1731
+#@ clymene
+msgid "Zoom map number"
+msgstr ""
+
+#: vc_shortcode.php:1740
+#@ clymene
+msgid "Height (px)"
+msgstr ""
+
+#: vc_shortcode.php:1743
+#@ clymene
+msgid "Example: 400px."
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:19
+#@ js_composer
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+

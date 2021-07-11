@@ -1,0 +1,645 @@
+# Translation of Plugins - RSVP and Event Management Plugin - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - RSVP and Event Management Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-29 15:18:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - RSVP and Event Management Plugin - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://wpchill.com"
+msgstr "https://wpchill.com"
+
+#. Author of the plugin
+msgid "WPChill"
+msgstr "WPChill"
+
+#: rsvp_frontend.inc.php:413
+msgid "Add Additional Guest"
+msgstr "Ajouter un invité supplémentaire"
+
+#: wp-rsvp.php:1469
+msgid "Add New"
+msgstr "Ajouter un nouvel évènement"
+
+#: wp-rsvp.php:259
+msgid "Default is three"
+msgstr "Valeur par défaut : 3"
+
+#: wp-rsvp.php:926
+msgid "Unsupported file type, only XLSX, CSV, and ODS are supported."
+msgstr "Type de fichier non pris en charge, seuls les XLSX, CSV et ODS le sont."
+
+#: wp-rsvp.php:292
+msgid "Default is: &quot;Yes, I will attend.&quot;"
+msgstr "La valeur par défaut est : « Oui, je participerai. »"
+
+#: wp-rsvp.php:321
+msgid "Default is: &quot;We also have the option of getting individual vegetarian meals instead of the fish or meat. Would you like a vegetarian dinner?&quot;"
+msgstr "La valeur par défaut est : « Nous avons également la possibilité de consommer des plats végétariens individuels au lieu du poisson ou de la viande. Voulez-vous un dîner végétarien ? »"
+
+#: wp-rsvp.php:308
+msgid "Default is: &quot;We have the option of getting cheese pizza for the kids (and only kids). Do you want pizza instead of 'adult food?'&quot;"
+msgstr "La valeur par défaut est : « Nous avons la possibilité d’avoir une pizza au fromage pour les enfants (et uniquement les enfants). Voulez-vous une pizza au lieu du « menu adulte » ? »"
+
+#: wp-rsvp.php:300
+msgid "Default is: &quot;No, I will not be able to attend.&quot;"
+msgstr "La valeur par défaut est : « Non, je ne pourrai pas participer. »"
+
+#: wp-rsvp.php:256
+msgid "Number of Additional Guests Allowed:"
+msgstr "Nombre d’invités supplémentaires autorisés :"
+
+#: rsvp_frontend.inc.php:1294
+msgid "Thank you %1$s for RSVPing."
+msgstr "Merci %1$s d’avoir confirmé votre présence."
+
+#: rsvp_frontend.inc.php:929
+msgid "Hello %1$s %2$s,"
+msgstr "Bonjour %1$s %2$s,"
+
+#: rsvp_frontend.inc.php:1258
+msgid "Hi %1$s %2$s!"
+msgstr "Bonjour %1$s %2$s !"
+
+#: rsvp_frontend.inc.php:895
+msgid "%1$s %2$s rsvp status: %3$s"
+msgstr "État de la réponse pour %1$s %2$s : %3$s"
+
+#: rsvp_frontend.inc.php:853
+msgid "%1$s %2$s has submitted their RSVP and has RSVP'd with %3$s."
+msgstr "%1$s %2$s a répondu à votre invitation et sa réponse est %3$s."
+
+#: wp-rsvp.php:1238
+msgid "Attendee %1$s %2$s has been successfully saved."
+msgstr "L’invité %1$s %2$s a bien été enregistré."
+
+#: rsvp_frontend.inc.php:1432
+msgid "You have already added %1$d additional rsvp\\'s you can add no more."
+msgstr "Vous avez déjà ajouté %1$d invités supplémentaires, vous ne pouvez pas en ajouter d’autres."
+
+#: rsvp_frontend.inc.php:247
+msgid "Yes, I will attend."
+msgstr "Oui, je participerai."
+
+#: rsvp_frontend.inc.php:249
+msgid "No, I will not be able to attend."
+msgstr "Non, je ne pourrai pas participer."
+
+#: wp-rsvp.php:2146 wp-rsvp.php:2231
+msgid "RSVP Plugin"
+msgstr "Extension RSVP"
+
+#: wp-rsvp.php:2131
+msgid "RSVP Data Erased Successfully"
+msgstr "Données de RSVP bien effacées."
+
+#: wp-rsvp.php:1823
+msgid "People that have access"
+msgstr "Personnes ayant accès"
+
+#: wp-rsvp.php:1822
+msgid "Available people"
+msgstr "Personnes disponibles"
+
+#: wp-rsvp.php:1783
+msgid "Select People"
+msgstr "Sélectionner les personnes"
+
+#: wp-rsvp.php:1782
+msgid "Everyone"
+msgstr "Tout le monde"
+
+#: wp-rsvp.php:1761
+msgid "Back to custom question list"
+msgstr "Retourner à la liste des questions personnalisées"
+
+#: wp-rsvp.php:1340
+msgid "Non-Associated Attendees"
+msgstr "Participants non associés"
+
+#: rsvp_frontend.inc.php:851
+msgid "Hello"
+msgstr "Bonjour"
+
+#: rsvp_frontend.inc.php:960
+msgid "You have successfully RSVP'd with"
+msgstr "Vous avez bien répondu à l’invitation de"
+
+#: rsvp_frontend.inc.php:48
+msgid "The deadline to RSVP for this event has passed."
+msgstr "La date limite de réponse pour cet évènement est passée."
+
+#: wp-rsvp.php:1121
+msgid "Select a file in the following file format: XLSX, CSV and ODS. It has to have the following layout:"
+msgstr "Choisissez un fichier dans un des formats suivants : XLSX, CSV et ODS. Votre fichier doit avoir la mise en page suivante :"
+
+#: rsvp_frontend.inc.php:871 rsvp_frontend.inc.php:957
+msgid "Note: "
+msgstr "Note :"
+
+#: wp-rsvp.php:415
+msgid "Custom Styling:"
+msgstr "Style personnalisé :"
+
+#: rsvp_frontend.inc.php:863 rsvp_frontend.inc.php:949
+msgid "Vegetarian Meal: "
+msgstr "Repas végétarien : "
+
+#: rsvp_frontend.inc.php:859 rsvp_frontend.inc.php:945
+msgid "Kids Meal: "
+msgstr "Repas enfant : "
+
+#: rsvp_frontend.inc.php:867 rsvp_frontend.inc.php:953
+msgid "Email: "
+msgstr "E-mail : "
+
+#: wp-rsvp.php:410
+msgid "Delete all data on uninstall:"
+msgstr "Supprimer toutes les données de l’extension lors de la désinstallation :"
+
+#: rsvp_frontend.inc.php:210
+msgid "Hi %s it looks like you have already RSVP'd. Would you like to edit your reservation?"
+msgstr "Bonjour %s, il semble que vous avez déjà répondu à l'invitation. Souhaitez-vous modifier votre réservation?"
+
+#: rsvp_frontend.inc.php:251
+msgid "We have the option of getting cheese pizza for the kids (and only kids).  Do you want pizza instead of \"adult food?\""
+msgstr "Nous avons la possibilité d'avoir une pizza au fromage pour les enfants (et seulement les enfants). Voulez-vous la pizza au lieu de \"la nourriture des adultes\" ?"
+
+#: rsvp_frontend.inc.php:253
+msgid "We also have the option of getting individual vegetarian meals instead of the fish or meat.  Would you like a vegetarian dinner?"
+msgstr "Nous avons également la possibilité de consommer des plats végétariens individuels au lieu du poisson ou de la viande. Voulez-vous un dîner végétarien ?"
+
+#: rsvp_frontend.inc.php:288
+msgid "So, how about it?"
+msgstr "Alors, qu'en pensez vous ?"
+
+#: rsvp_frontend.inc.php:349
+msgid "The following people are associated with you.  At this time you can RSVP for them as well."
+msgstr "Les personnes suivantes sont associées avec vous. Vous pouvez aussi confirmer leur présence."
+
+#: rsvp_frontend.inc.php:368
+msgid "Does %s need a kids meal?"
+msgstr "%s a-t-il besoin d'un repas enfant ?"
+
+#: rsvp_frontend.inc.php:379
+msgid "Does %s need a vegetarian meal?"
+msgstr "%s a-t-il besoin d'un repas végétarien ?"
+
+#: rsvp_frontend.inc.php:403
+msgid "Did we slip up and forget to invite someone? If so, please add him or her here:"
+msgstr "Avons-nous oublié d'inviter quelqu'un ? Si oui, merci de l'ajouter ici :"
+
+#: rsvp_frontend.inc.php:1437
+msgid "Person's first name"
+msgstr "Prénom de la personne"
+
+#: rsvp_frontend.inc.php:1441
+msgid "Person's last name"
+msgstr "Nom de la personne"
+
+#: rsvp_frontend.inc.php:1446
+msgid "Person's email address"
+msgstr "L'adresse email de la personne"
+
+#: rsvp_frontend.inc.php:1459
+msgid "Does this person need a kids meal?"
+msgstr "Est-ce que cette personne a besoin d'un repas enfant ?"
+
+#: rsvp_frontend.inc.php:1469
+msgid "Does this person need a vegetarian meal?"
+msgstr "Est-ce que cette personne a besoin d'un repas végétarien ?"
+
+#: rsvp_frontend.inc.php:550
+msgid "A first and last name must be specified"
+msgstr "Un prénom et un nom doivent être spécifiés"
+
+#: rsvp_frontend.inc.php:584 rsvp_frontend.inc.php:1266
+msgid "There are a few more questions we need to ask you if you could please fill them out below to finish up the RSVP process."
+msgstr "Il y a quelques questions supplémentaires que nous devons vous poser, merci de les compléter ci-dessous pour terminer le processus de réponse."
+
+#: rsvp_frontend.inc.php:1297
+msgid " You have also RSVPed for - "
+msgstr " Vous avez également répondu pour - "
+
+#: rsvp_frontend.inc.php:1324
+msgid "<br /><br />You have also RSVPed for - "
+msgstr "<br /> <br /> Vous avez également répondu pour - "
+
+#: rsvp_frontend.inc.php:1369
+msgid "Please enter your passcode to RSVP."
+msgstr "Merci d'entrer votre mot de passe pour confirmer votre présence."
+
+#: rsvp_frontend.inc.php:1371
+msgid "Please enter your first name, last name and passcode to RSVP."
+msgstr "Merci d'entrer votre prénom, nom et mot de passe pour confirmer votre présence."
+
+#: rsvp_frontend.inc.php:1373
+msgid "Please enter your first and last name to RSVP."
+msgstr "Merci d'entrer votre nom et prénom pour confirmer votre présence."
+
+#: rsvp_frontend.inc.php:1385
+msgid "New Attendee Registration"
+msgstr "Enregistrement d'un nouveau participant"
+
+#: rsvp_frontend.inc.php:1389
+msgid "Need to modify your registration? Start with the below form."
+msgstr "Besoin de modifier votre inscription ? Commencez avec le formulaire ci-dessous."
+
+#: rsvp_frontend.inc.php:941 rsvp_frontend.inc.php:1401 wp-rsvp.php:613
+#: wp-rsvp.php:793 wp-rsvp.php:1124 wp-rsvp.php:1304
+msgid "Passcode"
+msgstr "Mot de passe"
+
+#: rsvp_frontend.inc.php:1404
+msgid "Complete your RSVP!"
+msgstr "Complétez votre réponse !"
+
+#: wp-rsvp.php:248
+msgid "RSVP Open Date:"
+msgstr "RSVP Date de début :"
+
+#: wp-rsvp.php:252
+msgid "RSVP Deadline:"
+msgstr "RSVP Date limite :"
+
+#: wp-rsvp.php:263
+msgid "Custom Greeting:"
+msgstr "Vœux personnalisé :"
+
+#: wp-rsvp.php:267
+msgid "Custom Welcome:"
+msgstr "Bienvenue personnalisée :"
+
+#: wp-rsvp.php:271
+msgid "Default is: &quot;There are a few more questions we need to ask you if you could please fill them out below to finish up the RSVP process.&quot;"
+msgstr "Par défaut : &quot; Il y a quelques questions supplémentaires que nous devons vous poser, merci de les compléter ci-dessous pour terminer le processus de réponse.&quot;."
+
+#: wp-rsvp.php:275
+msgid "Email Text: <br />Sent to guests in confirmation, at top of email"
+msgstr "Texte de l'email : <br />Envoyé aux invités dans la confirmation, en haut de l'email"
+
+#: wp-rsvp.php:279
+msgid "RSVP Question Verbiage:"
+msgstr "RSVP Formulation de la question :"
+
+#: wp-rsvp.php:284
+msgid "Default is: &quot;So, how about it?&quot;"
+msgstr "Par défaut : &quot;Alors, qu'en pensez vous ?&quot;"
+
+#: wp-rsvp.php:288
+msgid "RSVP Yes Verbiage:"
+msgstr "RSVP Formulation du Oui :"
+
+#: wp-rsvp.php:296
+msgid "RSVP No Verbiage:"
+msgstr "RSVP Formulation du Non :"
+
+#: wp-rsvp.php:304
+msgid "RSVP Kids Meal Verbiage:"
+msgstr "RSVP Formulation pour les repas enfants :"
+
+#: wp-rsvp.php:312
+msgid "Hide Kids Meal Question:"
+msgstr "Cacher la question pour les repas pour enfants :"
+
+#: wp-rsvp.php:317
+msgid "RSVP Vegetarian Meal Verbiage:"
+msgstr "RSVP Formulation pour les repas végétarien :"
+
+#: wp-rsvp.php:325
+msgid "Hide Vegetarian Meal Question:"
+msgstr "Cacher la question pour les repas végétarien :"
+
+#: wp-rsvp.php:330
+msgid "Note Verbiage:"
+msgstr "Formulation pour les commentaires :"
+
+#: wp-rsvp.php:339
+msgid "Hide Note Field:"
+msgstr "Cacher le champ commentaires :"
+
+#: wp-rsvp.php:349
+msgid "Custom Thank You:"
+msgstr "Merci personnalisé :"
+
+#: wp-rsvp.php:353
+msgid "Do not allow additional guests"
+msgstr "Ne pas autoriser les invités supplémentaires"
+
+#: wp-rsvp.php:358
+msgid "Add Additional Verbiage:"
+msgstr "Formulation pour les invités supplémentaires :"
+
+#: wp-rsvp.php:362
+msgid "Default is: &quot;Did we slip up and forget to invite someone? If so, please add him or her here:&quot;"
+msgstr "Par défaut est: & quot; Avons-nous glissons et oublier d'inviter quelqu'un? Si oui, se il vous plaît ajouter lui ici: & quot;"
+
+#: wp-rsvp.php:366
+msgid "Notify When Guest RSVPs"
+msgstr "Notifier lorsqu'il y a une réponse"
+
+#: wp-rsvp.php:371
+msgid "Email address to notify"
+msgstr "Adresse e-mail de notification"
+
+#: wp-rsvp.php:375
+msgid "Send email to main guest when they RSVP"
+msgstr "Envoyer un email à l'invité principal quand il répond"
+
+#: wp-rsvp.php:380
+msgid "Require a Passcode to RSVP:"
+msgstr "Exiger un mot de passe pour confirmer votre présence :"
+
+#: wp-rsvp.php:385
+msgid "Require only a Passcode to RSVP<br />(requires that passcodes are unique):"
+msgstr "N'exiger qu'un mode de passe pour répondre<br /> (exige que les mots de passe soient uniques):"
+
+#: wp-rsvp.php:390
+msgid "Allow Open Registration (note - this will force passcodes for attendees):"
+msgstr "Autoriser les inscriptions ouvertes (note - cela va forcer les codes d'accès pour les participants) :"
+
+#: wp-rsvp.php:395
+msgid "Do not scroll page to the top of the RSVP form:"
+msgstr "Ne pas remonter vers le haut du formulaire de réponse :"
+
+#: wp-rsvp.php:344
+msgid "Hide email field on rsvp form:"
+msgstr "Cacher champ email sur le formulaire de réponse :"
+
+#: wp-rsvp.php:400
+msgid "Do not use the specified notification email as the from email<br /> (if you are not receiving email notifications try this):"
+msgstr "Ne pas utiliser le courriel de notification spécifié comme email d'expéditeur<br /> (Essayez cela si vous ne recevez pas de notifications par email) :"
+
+#: wp-rsvp.php:489
+msgid "List of current attendees"
+msgstr "Liste des participants actuels"
+
+#: wp-rsvp.php:501
+msgid "Export Attendees"
+msgstr "Exporter la liste des participants"
+
+#: wp-rsvp.php:511
+msgid "Yes:"
+msgstr "Oui :"
+
+#: wp-rsvp.php:512
+msgid "No:"
+msgstr "Non :"
+
+#: wp-rsvp.php:513
+msgid "No Response:"
+msgstr "Pas de réponse :"
+
+#: wp-rsvp.php:514
+msgid "Kids Meals:"
+msgstr "Repas Enfants :"
+
+#: wp-rsvp.php:515
+msgid "Veggie Meals:"
+msgstr "Repas Végétariens :"
+
+#: wp-rsvp.php:523
+msgid "Attendee"
+msgstr "Participant"
+
+#: wp-rsvp.php:536 wp-rsvp.php:781 wp-rsvp.php:1123 wp-rsvp.php:1311
+msgid "RSVP Status"
+msgstr "Statut RSVP"
+
+#: wp-rsvp.php:563 wp-rsvp.php:784 wp-rsvp.php:1123
+msgid "Kids Meal"
+msgstr "Repas enfant"
+
+#: wp-rsvp.php:578 wp-rsvp.php:807
+msgid "Additional Attendee"
+msgstr "Invités supplémentaires"
+
+#: wp-rsvp.php:593 wp-rsvp.php:790 wp-rsvp.php:1124
+msgid "Vegetarian"
+msgstr "Végétarien"
+
+#: wp-rsvp.php:608 wp-rsvp.php:1333
+msgid "Custom Message"
+msgstr "Message personnalisé"
+
+#: rsvp_frontend.inc.php:893 rsvp_frontend.inc.php:980 wp-rsvp.php:627
+#: wp-rsvp.php:787 wp-rsvp.php:1124 wp-rsvp.php:1337 wp-rsvp.php:1341
+msgid "Associated Attendees"
+msgstr "Participants associés"
+
+#: wp-rsvp.php:1114
+msgid "total records were imported"
+msgstr "Nombre total d'enregistrements importés"
+
+#: wp-rsvp.php:1115
+msgid "Continue to the RSVP"
+msgstr "Aller au formulaire de réponse"
+
+#: wp-rsvp.php:1125
+msgid "Private Question Association"
+msgstr "Question privée associée"
+
+#: wp-rsvp.php:1128
+msgid "associated attendees should be separated by a comma it is assumed that the first space encountered will separate the first and last name."
+msgstr "les participants associés doivent être séparés par une virgule, il est supposé que le premier espace rencontré sépare le prénom et le nom."
+
+#: wp-rsvp.php:1243
+msgid "Continue to Attendee List"
+msgstr "Aller à la liste des participants"
+
+#: wp-rsvp.php:1244
+msgid "Add a Guest"
+msgstr "Ajouter un invité"
+
+#: wp-rsvp.php:1318
+msgid "No Response"
+msgstr "Pas de réponse"
+
+#: wp-rsvp.php:1369
+msgid "Custom Questions Answered"
+msgstr "Réponses Questions Personnalisées"
+
+#: wp-rsvp.php:1372 wp-rsvp.php:1477 wp-rsvp.php:1776
+msgid "Question"
+msgstr "Question"
+
+#: wp-rsvp.php:1373 wp-rsvp.php:1715 wp-rsvp.php:1806
+msgid "Answer"
+msgstr "Réponse"
+
+#: wp-rsvp.php:1458
+msgid "List of current custom questions"
+msgstr "Liste des questions personnalisées"
+
+#: wp-rsvp.php:1468
+msgid "Save Sort Order"
+msgstr "Enregistrer l'ordre de tri"
+
+#: wp-rsvp.php:1478 wp-rsvp.php:1788
+msgid "Private Import Key"
+msgstr "Importer une clé privée"
+
+#: wp-rsvp.php:1664
+msgid "Custom Question saved"
+msgstr "Question personnalisée enregistrée"
+
+#: wp-rsvp.php:1666
+msgid "Continue to Question List"
+msgstr "Aller à la liste des questions"
+
+#: wp-rsvp.php:1667
+msgid "Add another Question"
+msgstr "Ajouter une autre question"
+
+#: wp-rsvp.php:1765
+msgid "Question Type"
+msgstr "Type de question"
+
+#: wp-rsvp.php:1780
+msgid "Question Permission Level"
+msgstr "Niveau d'autorisation de la Question "
+
+#: wp-rsvp.php:1796
+msgid "Answers"
+msgstr "Réponses"
+
+#: wp-rsvp.php:1819
+msgid "Attendees allowed to answer this question"
+msgstr "Les participants autorisés à répondre à cette question"
+
+#: wp-rsvp.php:1991
+msgid "Please enter your first name"
+msgstr "Merci de saisir votre prénom"
+
+#: wp-rsvp.php:1993
+msgid "Please enter your password"
+msgstr "Veuillez renseigner votre mot de passe"
+
+#: wp-rsvp.php:1115
+msgid "list"
+msgstr "Liste"
+
+#: wp-rsvp.php:609 wp-rsvp.php:795 wp-rsvp.php:1125
+msgid "Note"
+msgstr "Remarque"
+
+#: wp-rsvp.php:535 wp-rsvp.php:781 wp-rsvp.php:1122 wp-rsvp.php:1297
+msgid "Email"
+msgstr "Adresse e-mail"
+
+#: wp-rsvp.php:500 wp-rsvp.php:1467
+msgid "Apply"
+msgstr "Aplliquer"
+
+#: wp-rsvp.php:498 wp-rsvp.php:1465 wp-rsvp.php:1808
+msgid "Delete"
+msgstr "Suppirmer"
+
+#: wp-rsvp.php:497 wp-rsvp.php:1464
+msgid "Bulk Actions"
+msgstr "Actions multiples"
+
+#: wp-rsvp.php:424
+msgid "Save Changes"
+msgstr "Sauvegarder les réglages"
+
+#: rsvp_frontend.inc.php:272 rsvp_frontend.inc.php:1395 wp-rsvp.php:781
+#: wp-rsvp.php:1122 wp-rsvp.php:1289
+msgid "First Name"
+msgstr "Nom"
+
+#. Plugin Name of the plugin
+#: rsvp_frontend.inc.php:417 rsvp_frontend.inc.php:613
+msgid "RSVP"
+msgstr "RSVP"
+
+#: rsvp_frontend.inc.php:577
+msgid "Hi"
+msgstr "Bonjour"
+
+#: rsvp_frontend.inc.php:326 rsvp_frontend.inc.php:390
+msgid "Email Address"
+msgstr "Adresse de courriel"
+
+#: rsvp_frontend.inc.php:219 rsvp_frontend.inc.php:245
+#: rsvp_frontend.inc.php:1419 wp-rsvp.php:653 wp-rsvp.php:665 wp-rsvp.php:678
+#: wp-rsvp.php:1328
+msgid "No"
+msgstr "Ne Pas"
+
+#: rsvp_frontend.inc.php:218 rsvp_frontend.inc.php:244
+#: rsvp_frontend.inc.php:1418 wp-rsvp.php:653 wp-rsvp.php:665 wp-rsvp.php:678
+#: wp-rsvp.php:1323
+msgid "Yes"
+msgstr "Ben Oui"
+
+#: wp-rsvp.php:1285 wp-rsvp.php:1394 wp-rsvp.php:1760
+msgid "Save"
+msgstr "Enregistrer"
+
+#: rsvp_frontend.inc.php:279 rsvp_frontend.inc.php:1397 wp-rsvp.php:781
+#: wp-rsvp.php:1122 wp-rsvp.php:1293
+msgid "Last Name"
+msgstr "Nom"
+
+#: wp-rsvp.php:1992
+msgid "Please enter your last name"
+msgstr "Veuillez saisir votre nom de famille"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/extend/plugins/rsvp/"
+msgstr "http://wordpress.org/extend/plugins/rsvp/"
+
+#: wp-rsvp.php:1797
+msgid "Add new Answer"
+msgstr "Ajouter une nouvelle réponse"
+
+#: wp-rsvp.php:548
+msgid "RSVP Date"
+msgstr "Date de la réponse"
+
+#: wp-rsvp.php:510
+msgid "RSVP Count -"
+msgstr "Nombre de réponses -"
+
+#: rsvp_frontend.inc.php:1479
+msgid "Remove Guest"
+msgstr "Retirer l’invité"
+
+#: rsvp_frontend.inc.php:1235
+msgid "Welcome back %s!"
+msgstr "Bienvenue à nouveau %s !"
+
+#: rsvp_frontend.inc.php:1452
+msgid "Will this person be attending?"
+msgstr "Cette personne sera-t-elle présente ?"
+
+#: rsvp_frontend.inc.php:628
+msgid "<strong>We were unable to find anyone with a name of %1$s %2$s</strong>"
+msgstr "<strong>Nous ne trouvons personne au nom de %1$s %2$s</strong>"
+
+#: rsvp_frontend.inc.php:626
+msgid "<strong>We were unable to find anyone with a name of %1$s %2$s or the provided passcode was incorrect.</strong>"
+msgstr "<strong>Nous ne trouvons personne au nom de %1$s %2$s, ou le mot de passe fourni est incorrect.</strong>"
+
+#: rsvp_frontend.inc.php:624
+msgid "<strong>We were unable to find anyone with the passcode you specified.</strong>"
+msgstr "<strong>Nous ne trouvons personne pour le mot de passe que vous avez précisé.</strong>"
+
+#: rsvp_frontend.inc.php:606
+msgid "We could not find an exact match but could any of the below entries be you?"
+msgstr "Nous n’avons pas pu trouver de correspondance exacte, mais l’une des entrées ci-dessous pourrait-elle être la vôtre ?"
+
+#: rsvp_frontend.inc.php:255
+msgid "If you have any <strong style=\"color:red;\">food allergies</strong>, please indicate what they are in the &quot;notes&quot; section below.  Or, if you just want to send us a note, please feel free.  If you have any questions, please send us an email."
+msgstr "Si vous avez des <strong style=\"color:red;\">allergies alimentaires</strong>, veuillez les indiquer dans la section « notes » ci-dessous. Ou, si vous souhaitez simplement nous envoyer un message, n’hésitez pas.  Si vous avez des questions, veuillez nous envoyer un e-mail."
+
+#: wp-rsvp.php:808
+msgid "pre-fill URL"
+msgstr "pré-remplir l’URL"

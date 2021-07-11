@@ -1,0 +1,624 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Carrie Theme Addons Plugin\n"
+"POT-Creation-Date: 2019-01-31 15:40+0200\n"
+"PO-Revision-Date: 2016-11-14 16:20+0200\n"
+"Last-Translator: dedalx <dedalx.rus@gmail.com>\n"
+"Language-Team: Creanncy <support@creanncy.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../carrie-theme-addons.php:91
+msgid "Share this"
+msgstr ""
+
+#: ../carrie-theme-addons.php:91
+msgid "Tweet this"
+msgstr ""
+
+#: ../carrie-theme-addons.php:91
+msgid "Share with Google Plus"
+msgstr ""
+
+#: ../carrie-theme-addons.php:91
+msgid "Pin this"
+msgstr ""
+
+#: ../carrie-theme-addons.php:144
+msgid "Views"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/parsers.php:42
+#: ../inc/oneclick-demo-import/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/parsers.php:67
+#: ../inc/oneclick-demo-import/importer/parsers.php:72
+#: ../inc/oneclick-demo-import/importer/parsers.php:262
+#: ../inc/oneclick-demo-import/importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:471
+msgid "Import Again"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:475
+msgid "Import Demo Data"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:762
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:820
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:893
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:915
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:938
+msgid "Widget already exists"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:987
+msgid "Imported"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:990
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:997
+msgid "No Title"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:142
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:151
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:202
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:206
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:215
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:143
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:186
+msgid "All done."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:186
+msgid "Have fun!"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:187
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:207
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:223
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:248
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:274
+msgid "Assign Authors"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:275
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:277
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:287
+msgid "Import Attachments"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:290
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:307
+msgid "Import author:"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:318
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:321
+msgid "as a new user:"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:329
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:331
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:332
+msgid "- Select -"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:382
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:431
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:469
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:535
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:556
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:611
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:757
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:764
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:926
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:939
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:972
+msgid "Invalid file type"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:968
+msgid "Empty filename"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:998
+#, php-format
+msgid ""
+"Unable to create directory %s. Is its parent directory writable by the "
+"server?"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1004
+#, php-format
+msgid "Could not write file %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1049
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1055
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1067
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1073
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1172
+msgid "Import WordPress"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1186
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1187
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/init.php:250
+msgid "Import Revolution sliders ..."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/init.php:262
+msgid "Slider was not imported due to error."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/init.php:264
+msgid "Slider imported."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/init.php:274
+msgid "Revolution slider plugin not installed."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:15
+msgid "Page settings"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:41
+msgid "Page CSS class: "
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:49
+msgid "Don't display this page title (only show page content)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:69
+msgid "Page sidebar position: "
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:71 ../inc/theme-metaboxes.php:218
+msgid "Use theme control panel settings"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:72 ../inc/theme-metaboxes.php:219
+#: ../inc/theme-widgets.php:914
+msgid "Left"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:73 ../inc/theme-metaboxes.php:220
+#: ../inc/theme-widgets.php:916
+msgid "Right"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:74 ../inc/theme-metaboxes.php:221
+msgid "Disable sidebar"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:146
+msgid "Post settings"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:174
+msgid "Show this post in Homepage Posts Slider (Featured post)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:180
+msgid "Show this post in Editors Pick Block (Editor Pick post)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:187
+msgid "Don't show featured image on single post page"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:196
+msgid "Disable social share buttons on this post"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:216
+msgid "Post sidebar position: "
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:313
+msgid "Header Background"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:320
+msgid "Header Background image"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:321
+msgid ""
+"You can display fullwidth image background in your post/page header with "
+"post title. Use wide image here."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:332
+msgid "Post Formats options"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:340
+msgid "Gallery images<br> (for <i>Gallery</i> post format)."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:341
+msgid ""
+"Use this field to add your images for gallery in Gallery post format. Use "
+"SHIFT/CTRL keyboard buttons to select multiple images."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:348
+msgid "Video url<br> (for <i>Video</i> post format)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:349
+msgid ""
+"Enter a Youtube, Vimeo, Flickr, TED or Vine video page url for Video post "
+"format."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:355
+msgid "Audio url<br> (for <i>Audio</i> post format)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:356
+msgid ""
+"Enter a SoundCloud, Mixcloud, Rdio or Spotify audio page url for Audio post "
+"format."
+msgstr ""
+
+#: ../inc/theme-widgets.php:26
+msgid "Your site&#8217;s most recent Posts with thumbnails."
+msgstr ""
+
+#: ../inc/theme-widgets.php:27
+msgid "Carrie Recent Posts"
+msgstr ""
+
+#: ../inc/theme-widgets.php:52
+msgid "Recent Posts"
+msgstr ""
+
+#: ../inc/theme-widgets.php:155 ../inc/theme-widgets.php:322
+#: ../inc/theme-widgets.php:705 ../inc/theme-widgets.php:788
+msgid "Title:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:158 ../inc/theme-widgets.php:333
+#: ../inc/theme-widgets.php:592
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:162
+msgid "Display post date?"
+msgstr ""
+
+#: ../inc/theme-widgets.php:165
+msgid "Display post featured image?"
+msgstr ""
+
+#: ../inc/theme-widgets.php:176
+msgid "Your site&#8217;s most viewed Posts with thumbnails."
+msgstr ""
+
+#: ../inc/theme-widgets.php:177
+msgid "Carrie Popular Posts"
+msgstr ""
+
+#: ../inc/theme-widgets.php:202
+msgid "Popular Posts"
+msgstr ""
+
+#: ../inc/theme-widgets.php:325
+msgid "Display type:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:328
+msgid "Thumbnails"
+msgstr ""
+
+#: ../inc/theme-widgets.php:329
+msgid "Thumbnail in first post + Small Thubnails in other"
+msgstr ""
+
+#: ../inc/theme-widgets.php:330
+msgid "Small thumbnails only"
+msgstr ""
+
+#: ../inc/theme-widgets.php:346
+msgid "Slider with posts details and different settings."
+msgstr ""
+
+#: ../inc/theme-widgets.php:347
+msgid "Carrie Posts Slider"
+msgstr ""
+
+#: ../inc/theme-widgets.php:577
+msgid "Title (Leave empty to disable title):"
+msgstr ""
+
+#: ../inc/theme-widgets.php:580
+msgid "Posts type:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:583
+msgid "Latest posts"
+msgstr ""
+
+#: ../inc/theme-widgets.php:584
+msgid "Popular"
+msgstr ""
+
+#: ../inc/theme-widgets.php:585
+msgid "Editors Pick"
+msgstr ""
+
+#: ../inc/theme-widgets.php:586
+msgid "Featured"
+msgstr ""
+
+#: ../inc/theme-widgets.php:589
+msgid "Category ID:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:596
+msgid "Slider autoplay"
+msgstr ""
+
+#: ../inc/theme-widgets.php:608
+msgid "Your site&#8217;s most recent comments with date."
+msgstr ""
+
+#: ../inc/theme-widgets.php:609
+msgid "Carrie Recent Comments"
+msgstr ""
+
+#: ../inc/theme-widgets.php:635
+msgid "Recent Comments"
+msgstr ""
+
+#: ../inc/theme-widgets.php:708
+msgid "Number of comments to show:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:721
+msgid "Show social follow icons set in theme admin panel."
+msgstr ""
+
+#: ../inc/theme-widgets.php:722
+msgid "Carrie Social Icons"
+msgstr ""
+
+#: ../inc/theme-widgets.php:747
+msgid "Subscribe and follow"
+msgstr ""
+
+#: ../inc/theme-widgets.php:802
+msgid "Add widget with any HTML content or shortcodes inside."
+msgstr ""
+
+#: ../inc/theme-widgets.php:804
+msgid "Carrie Content"
+msgstr ""
+
+#: ../inc/theme-widgets.php:908
+msgid "Disable paddings in widget"
+msgstr ""
+
+#: ../inc/theme-widgets.php:909
+msgid "Custom padding for content:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:910
+msgid "For ex.: 10px 5px 10px 5px"
+msgstr ""
+
+#: ../inc/theme-widgets.php:911
+msgid "Text align:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:915
+msgid "Center"
+msgstr ""
+
+#: ../inc/theme-widgets.php:918
+msgid "Text color:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:919
+msgid "For example: #ffffff"
+msgstr ""
+
+#: ../inc/theme-widgets.php:920
+msgid "Background image url:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:921
+msgid "Select background image"
+msgstr ""
+
+#: ../inc/theme-widgets.php:921
+msgid "Add background image to widget"
+msgstr ""
+
+#: ../inc/theme-widgets.php:921
+msgid "Select image"
+msgstr ""
+
+#: ../inc/theme-widgets.php:922
+msgid "Widget Title:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:925
+msgid "Content:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:926
+msgid "Add Image to content"
+msgstr ""
+
+#: ../inc/theme-widgets.php:929
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: ../inc/theme-widgets.php:931
+msgid "Button Text:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:932
+msgid "Leave empty to disable button"
+msgstr ""
+
+#: ../inc/theme-widgets.php:933
+msgid "Button URL:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:934
+msgid "Open in new tab"
+msgstr ""

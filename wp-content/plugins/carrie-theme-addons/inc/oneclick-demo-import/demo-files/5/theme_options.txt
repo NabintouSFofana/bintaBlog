@@ -1,0 +1,116 @@
+a:148:{s:23:"enable_theme_animations";b:1;s:24:"enable_images_animations";b:1;s:13:"body_bg_image";a:2:{s:3:"url";s:0:"";s:4:"path";s:40:"/var/www/vhosts/wp.creanncy.com/httpdocs";}s:13:"body_bg_style";s:5:"cover";s:15:"header_bg_image";a:2:{s:3:"url";s:0:"";s:4:"path";s:40:"/var/www/vhosts/wp.creanncy.com/httpdocs";}s:15:"header_bg_style";s:5:"cover";s:14:"disable_header";b:0;s:13:"header_height";s:3:"140";s:16:"disable_top_menu";b:1;s:21:"header_top_menu_style";s:10:"menu_white";s:23:"disable_top_menu_search";b:0;s:22:"disable_header_tagline";b:1;s:10:"logo_width";s:3:"350";s:20:"enable_sticky_header";b:1;s:25:"enable_sticky_header_logo";b:1;s:27:"header_menu_font_decoration";s:9:"uppercase";s:21:"header_menu_font_size";s:9:"largefont";s:23:"header_menu_font_weight";s:11:"regularfont";s:23:"header_menu_arrow_style";s:9:"downarrow";s:20:"header_banner_editor";s:96:"<a class="btn" href="http://creanncy.com/go/newsletter-signup/" target="_blank">Subscribe to</a>";s:14:"header_post_id";s:2:"50";s:8:"facebook";s:41:"http://facebook.com/magniumthemescompany/";s:2:"vk";s:0:"";s:7:"twitter";s:33:"http://twitter.com/magniumthemes/";s:11:"google-plus";s:39:"http://google.com/+magniumthemescompany";s:8:"linkedin";s:0:"";s:8:"dribbble";s:0:"";s:7:"behance";s:32:"http://behance.net/magniumthemes";s:9:"instagram";s:0:"";s:6:"tumblr";s:0:"";s:9:"pinterest";s:20:"http://pinterest.com";s:12:"vimeo-square";s:0:"";s:7:"youtube";s:18:"http://youtube.com";s:5:"skype";s:0:"";s:6:"flickr";s:0:"";s:3:"rss";s:0:"";s:10:"deviantart";s:0:"";s:5:"500px";s:0:"";s:4:"etsy";s:0:"";s:8:"telegram";s:0:"";s:13:"odnoklassniki";s:0:"";s:5:"houzz";s:0:"";s:5:"slack";s:0:"";s:2:"qq";s:0:"";s:24:"footer_instagram_display";b:0;s:22:"footer_instagram_title";s:9:"Instagram";s:25:"footer_instagram_subtitle";s:19:"Join our instaworld";s:24:"footer_htmlblock_display";b:1;s:25:"footer_htmlblock_bg_image";a:2:{s:3:"url";s:83:"http://wp.creanncy.com/carrie/carrie-5/wp-content/uploads/2016/11/photo-blog4-4.jpg";s:4:"path";s:100:"/var/www/vhosts/wp.creanncy.com/httpdocscarrie/carrie-5/wp-content/uploads/2016/11/photo-blog4-4.jpg";}s:24:"footer_htmlblock_content";s:105:"<a class="btn btn-white" href="https://vimeo.com/channels/staffpicks" target="_blank">View my channel</a>";s:24:"footer_shortcode_display";b:1;s:21:"footer_shortcode_code";s:201:"<div class="row">
+<div class="col-md-4">
+<h3>Never miss posts</h3>
+Sign up for our newsletter
+to receive updates and exclusive offers.
+
+</div>
+<div class="col-md-8 text-right">[mc4wp_form]</div>
+</div>";s:30:"footer_sidebar_1_homepage_only";b:1;s:18:"footer_enable_menu";b:1;s:20:"footer_enable_social";b:1;s:23:"footer_copyright_editor";s:111:"Powered by <a href="http://themeforest.net/user/creanncy/" target="_blank">Carrie - Premium WordPress Theme</a>";s:19:"blog_post_loop_type";s:7:"content";s:18:"post_excerpt_legth";s:2:"40";s:23:"blog_disable_posts_loop";b:1;s:21:"blog_post_show_author";b:1;s:22:"blog_list_show_related";b:0;s:33:"blog_enable_post_comments_counter";b:1;s:30:"blog_enable_post_views_counter";b:1;s:27:"blog_enable_homepage_slider";b:1;s:39:"blog_enable_homepage_transparent_header";b:0;s:30:"blog_homepage_slider_fullwidth";s:1:"0";s:29:"blog_enable_revolution_slider";b:1;s:27:"blog_homepage_slider_height";s:3:"550";s:26:"blog_homepage_slider_items";s:1:"1";s:40:"blog_homepage_slider_post_details_layout";s:10:"horizontal";s:40:"blog_disable_homepage_slider_description";b:0;s:20:"blog_enable_readmore";b:1;s:33:"blog_enable_homepage_merge_slider";b:0;s:33:"blog_enable_homepage_center_slide";b:0;s:29:"blog_homepage_slider_autoplay";s:4:"3000";s:31:"blog_homepage_slider_navigation";s:1:"1";s:31:"blog_homepage_slider_pagination";s:5:"false";s:34:"blog_enable_homepage_welcome_block";b:1;s:35:"blog_homepage_welcome_block_content";s:2947:"<!-- // About text -->
+<!-- Featured categories blocks -->
+<div class="background-white">
+<div class="col-md-12 col-sm-12 text-center">
+<h4>Handpicked</h4>
+<h2 class="lined">Explore amazing categories</h2>
+</div>
+<!-- Image block -->
+<div class="col-md-2 col-sm-6">
+<div class="welcome-image hover-effect-img">
+
+<img src="http://wp.creanncy.com/carrie/carrie-1/wp-content/uploads/2016/11/Welcome-image-1.jpg" alt="promo image" />
+<div class="welcome-image-overlay">
+<div class="welcome-image-content">
+<h3><a href="http://wp.creanncy.com/carrie/carrie-5/category/travel/">Travel</a></h3>
+<h5>Category</h5>
+</div>
+</div>
+</div>
+</div>
+<!-- // Image block -->
+<!-- Image block -->
+<div class="col-md-2 col-sm-6">
+<div class="welcome-image hover-effect-img">
+
+<img src="http://wp.creanncy.com/carrie/carrie-1/wp-content/uploads/2016/11/Welcome-image-2.jpg" alt="promo image" />
+<div class="welcome-image-overlay">
+<div class="welcome-image-content">
+<h3><a href="http://wp.creanncy.com/carrie/carrie-5/category/beauty/">Diy</a></h3>
+<h5>How to</h5>
+</div>
+</div>
+</div>
+</div>
+<!-- // Image block -->
+<!-- Image block -->
+<div class="col-md-2 col-sm-6">
+<div class="welcome-image hover-effect-img">
+
+<img src="http://wp.creanncy.com/carrie/carrie-1/wp-content/uploads/2016/11/Welcome-image-3.jpg" alt="promo image" />
+<div class="welcome-image-overlay">
+<div class="welcome-image-content">
+<h3><a href="http://youtube.com/" target="_blank">My Channel</a></h3>
+<h5>View videos</h5>
+</div>
+</div>
+</div>
+</div>
+<!-- // Image block -->
+<!-- Image block -->
+<div class="col-md-2 col-sm-6">
+<div class="welcome-image hover-effect-img">
+
+<img src="http://wp.creanncy.com/carrie/carrie-1/wp-content/uploads/2016/11/Welcome-image-4.jpg" alt="promo image" />
+<div class="welcome-image-overlay">
+<div class="welcome-image-content">
+<h3><a href="http://wp.creanncy.com/carrie/carrie-5/category/travel/" target="_blank">Creative</a></h3>
+<h5>Category</h5>
+</div>
+</div>
+</div>
+</div>
+<!-- // Image block -->
+<!-- Image block -->
+<div class="col-md-2 col-sm-6">
+<div class="welcome-image hover-effect-img">
+
+<img src="http://wp.creanncy.com/carrie/carrie-1/wp-content/uploads/2016/11/Welcome-image-5.jpg" alt="promo image" />
+<div class="welcome-image-overlay">
+<div class="welcome-image-content">
+<h3><a href="http://wp.creanncy.com/carrie/carrie-5/about/" target="_blank">About</a></h3>
+<h5>My life</h5>
+</div>
+</div>
+</div>
+</div>
+<!-- // Image block -->
+<!-- Image block -->
+<div class="col-md-2 col-sm-6">
+<div class="welcome-image hover-effect-img">
+
+<img src="http://wp.creanncy.com/carrie/carrie-1/wp-content/uploads/2016/11/Welcome-image-6.jpg" alt="promo image" />
+<div class="welcome-image-overlay">
+<div class="welcome-image-content">
+<h3><a href="http://wp.creanncy.com/carrie/carrie-5/category/travel/" target="_blank">Food</a></h3>
+<h5>Category</h5>
+</div>
+</div>
+</div>
+</div>
+<!-- // Image block -->
+
+</div>
+<!-- // Featured categories blocks -->";s:35:"blog_enable_homepage_popular_slider";b:0;s:33:"blog_homepage_popular_posts_title";s:13:"Trending news";s:36:"blog_homepage_popular_posts_subtitle";s:19:"what people reading";s:34:"blog_homepage_popular_slider_limit";s:2:"10";s:37:"blog_homepage_popular_slider_category";s:0:"";s:37:"blog_homepage_popular_slider_autoplay";s:1:"0";s:38:"blog_enable_homepage_editorspick_posts";b:1;s:37:"blog_homepage_editorspick_posts_title";s:12:"My New Vlogs";s:40:"blog_homepage_editorspick_posts_subtitle";s:22:"Best posts from Carrie";s:38:"blog_homepage_editorspick_posts_layout";s:5:"small";s:37:"blog_homepage_editorspick_posts_limit";s:1:"2";s:40:"blog_homepage_editorspick_posts_category";s:0:"";s:35:"blog_enable_post_transparent_header";b:1;s:22:"blog_enable_paper_page";b:1;s:28:"blog_enable_small_page_width";b:0;s:23:"blog_enable_author_info";b:1;s:32:"blog_enable_author_info_vertical";b:1;s:28:"blog_enable_post_info_bottom";b:0;s:34:"blog_enable_singlepost_header_info";b:0;s:20:"blog_enable_dropcaps";b:1;s:22:"blog_post_show_related";b:1;s:29:"blog_post_hide_featured_image";b:0;s:20:"blog_post_navigation";b:1;s:11:"header_font";a:2:{s:9:"font-size";s:2:"26";s:11:"font-family";s:12:"Josefin Sans";}s:19:"header_font_options";s:27:"400,400italic,600,600italic";s:9:"body_font";a:2:{s:9:"font-size";s:2:"16";s:11:"font-family";s:6:"Roboto";}s:17:"body_font_options";s:7:"400,600";s:15:"additional_font";a:2:{s:9:"font-size";s:2:"12";s:11:"font-family";s:7:"Poppins";}s:23:"additional_font_options";s:7:"400,600";s:22:"additional_font_enable";b:1;s:19:"font_google_disable";b:0;s:12:"font_regular";s:5:"Arial";s:15:"color_skin_name";s:4:"none";s:16:"theme_body_color";s:7:"#ffffff";s:16:"theme_text_color";s:7:"#000000";s:16:"theme_main_color";s:7:"#5ca6e6";s:21:"theme_header_bg_color";s:7:"#FFFFFF";s:23:"theme_cat_menu_bg_color";s:7:"#FFFFFF";s:18:"theme_footer_color";s:7:"#222222";s:22:"theme_masonry_bg_color";s:7:"#F5F5F5";s:26:"banner_enable_below_header";b:0;s:27:"banner_below_header_content";s:0:"";s:26:"banner_enable_above_footer";b:0;s:27:"banner_above_footer_content";s:0:"";s:20:"banner_enable_footer";b:1;s:21:"banner_footer_content";s:232:"<a href="http://creanncy.com/go/purchase-carrie/"><img class="alignnone size-full wp-image-612" src="http://wp.creanncy.com/carrie/carrie-5/wp-content/uploads/2016/12/promocarrie.jpg" alt="promocarrie" width="600" height="80" /></a>";s:42:"banner_enable_below_homepage_popular_posts";b:0;s:43:"banner_below_homepage_popular_posts_content";s:0:"";s:31:"banner_enable_posts_loop_middle";b:0;s:32:"banner_posts_loop_middle_content";s:0:"";s:31:"banner_enable_posts_loop_bottom";b:0;s:32:"banner_posts_loop_bottom_content";s:0:"";s:29:"banner_enable_single_post_top";b:0;s:30:"banner_single_post_top_content";s:0:"";s:32:"banner_enable_single_post_bottom";b:1;s:33:"banner_single_post_bottom_content";s:232:"<a href="http://creanncy.com/go/purchase-carrie/"><img class="alignnone size-full wp-image-612" src="http://wp.creanncy.com/carrie/carrie-5/wp-content/uploads/2016/12/promocarrie.jpg" alt="promocarrie" width="600" height="80" /></a>";s:17:"banner_enable_404";b:0;s:18:"banner_404_content";s:0:"";s:14:"custom_js_code";s:0:"";s:15:"custom_css_code";s:419:"/* Popup styles */
+body .ig_popup.ig_inspire {
+    background-image: url("http://wp.creanncy.com/carrie/carrie-1/wp-content/uploads/2016/05/Pictures-carrie-7.jpg");
+}
+body .ig_popup.ig_inspire .ig_headline {
+    color: #ffffff;
+    font-size: 36px;
+    font-weight: normal;
+    padding-bottom: 50px;
+    padding-top: 80px;
+    font-family: "Josefin Sans";
+}
+body .ig_popup.ig_inspire .ig_message {
+    margin: 30px 0;
+}";s:20:"header_logo_position";s:6:"center";s:22:"header_banner_position";s:7:"disable";s:20:"header_post_position";s:7:"disable";s:21:"blog_sidebar_position";s:5:"right";s:21:"page_sidebar_position";s:7:"disable";s:24:"archive_sidebar_position";s:5:"right";s:23:"search_sidebar_position";s:5:"right";s:21:"post_sidebar_position";s:5:"right";s:11:"blog_layout";s:14:"layout_masonry";}

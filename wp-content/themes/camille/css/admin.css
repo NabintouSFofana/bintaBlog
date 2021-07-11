@@ -1,0 +1,152 @@
+/* Composer bug fix */
+option.fade,
+select.fade,
+input.fade {
+	opacity: 1;
+}
+.hide_in_vc_editor {
+    display: none;
+}
+.wpadminbar-coming-soon-active {
+    background: red!important;
+}
+div.creanncy-welcome-message.updated {
+    border: none;
+    border-left: 4px solid #46B450;
+    margin-left: 0!important;
+}
+.creanncy-welcome-logo {
+    display: inline-block;
+    margin-right: 10px;
+    position: relative;
+    top: 0;
+}
+.creanncy-welcome-message .about-description {
+    font-size: 16px;
+    color: #777;
+    margin-top: 0;
+}
+.creanncy-welcome-message .creanncy-divider {
+    margin-bottom: 10px;
+}
+.creanncy-welcome-message .button-step {
+    border-radius: 10px;
+    display: inline-block;
+    margin-right: 10px;
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    color: #2EA2CC;
+    line-height: 20px;
+    font-weight: bold;
+}
+.creanncy-welcome-message .button-secondary .button-step  {
+    background: #777;
+    color: #fff;
+}
+.wrap .creanncy-welcome-message h2 {
+    float: none;
+    margin-bottom: 0;
+}
+.creanncy-welcome-message label,
+.creanncy-welcome-message input {
+    display: none;
+}
+.creanncy-welcome-message .button.button-hero {
+    width: 380px;
+}
+.creanncy-welcome-message a {
+    text-decoration: none!important;
+}
+.creanncy-welcome-message #creanncy-dismiss-notice {
+    float: right;
+    margin-top: 20px;
+}
+.creanncy-welcome-message-steps-wrapper {
+    display: none;
+}
+.creanncy-welcome-message-show-steps .button {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#creanncy-welcome-message-show-steps:after {
+    -moz-osx-font-smoothing: grayscale;
+    bottom: 3px;
+    color: #ffffff;
+    content: "";
+    display: inline-block;
+    font: 400 20px/1 dashicons;
+    padding: 0;
+    position: relative;
+    right: 0;
+    text-decoration: none !important;
+    vertical-align: bottom;
+}
+.welcome-panel.import-description {
+    padding-top: 0;
+    margin-right: 15px;
+}
+.welcome-panel.import-description li {
+    font-size: 13px;
+}
+.welcome-panel.import-description p {
+    color: #000;
+}
+.radium-importer-message .import-log-text {
+    background: none repeat scroll 0 0 #fff;
+    font-family: courier;
+    font-size: 12px;
+    padding: 0 15px 15px;
+    color: darkblue;
+    border: 1px solid #e5e5e5;
+    margin-right: 15px;
+}
+.radium-importer-message .import-log-text pre {
+    margin: 0;
+}
+body .notice,
+body div.error,
+body div.updated {
+    margin-left: 0;
+}
+.theme-demo-import-items {
+    clear: both;
+    margin-bottom: 30px;
+}
+.theme-demo-import-item {
+    display: inline-block;
+    text-align: center;
+    margin-right: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 15px;
+}
+.theme-demo-import-item img {
+    margin-top: 10px;
+    border: 3px solid #eeeeee;
+}
+.theme-demo-import-item label:hover img {
+    border: 3px solid #00A0D2;
+}
+.theme-demo-import-item:hover {
+    color: #00A0D2;
+}
+.theme-demo-import-item a.theme-live-preview {
+    display: block;
+    text-align: center;
+    padding: 5px 10px;
+    background: #eeeeee;
+    margin-top: 5px;
+}
+.theme-demo-import-item a.theme-live-preview:hover {
+    color: #000000;
+}
+
+
+body .jquery-migrate-deprecation-notice,
+body .jquery-migrate-dashboard-notice {
+    display: none!important;
+}

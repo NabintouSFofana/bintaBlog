@@ -1,0 +1,1181 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Ailsa Core\n"
+"POT-Creation-Date: 2020-12-22 16:26+0530\n"
+"PO-Revision-Date: 2020-12-22 16:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ailsa-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: inc/custom-shortcodes/theme-shortcodes.php:15
+msgid "Shortcodes"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:21
+msgid "Spacer"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:27
+#: inc/custom-shortcodes/theme-shortcodes.php:56
+msgid "Height"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:40
+#: inc/custom-shortcodes/theme-shortcodes.php:46
+msgid "Logo"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:51
+msgid "Width"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:61
+#: inc/custom-shortcodes/theme-shortcodes.php:98
+#: inc/custom-shortcodes/theme-shortcodes.php:186
+msgid "Top Space"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:66
+#: inc/custom-shortcodes/theme-shortcodes.php:104
+#: inc/custom-shortcodes/theme-shortcodes.php:192
+msgid "Bottom Space"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:71
+#: inc/custom-shortcodes/theme-shortcodes.php:115
+#: inc/custom-shortcodes/theme-shortcodes.php:153
+#: inc/custom-shortcodes/theme-shortcodes.php:253
+#: inc/custom-shortcodes/theme-shortcodes.php:387
+#: inc/custom-shortcodes/theme-shortcodes.php:438
+#: inc/custom-shortcodes/theme-shortcodes.php:485
+msgid "Custom Class"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:80
+msgid "Slogan"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:86
+#: inc/custom-shortcodes/theme-shortcodes.php:135
+#: inc/custom-shortcodes/theme-shortcodes.php:405
+#: inc/custom-shortcodes/theme-shortcodes.php:475
+msgid "Text Size"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:92
+#: inc/custom-shortcodes/theme-shortcodes.php:141
+#: inc/custom-shortcodes/theme-shortcodes.php:239
+#: inc/custom-shortcodes/theme-shortcodes.php:480
+msgid "Text Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:110
+msgid "Slogan Text"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:123
+msgid "Go To Top"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:129
+#: inc/custom-shortcodes/theme-shortcodes.php:494
+msgid "Text"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:147
+msgid "Icon"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:162
+msgid "Social Icons"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:165
+#: inc/custom-shortcodes/theme-shortcodes.php:453
+msgid "Add New"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:172
+msgid "Style One (Header)"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:173
+#: inc/custom-shortcodes/theme-shortcodes.php:301
+#: visual-composer/shortcodes/slider/slider-options.php:21
+msgid "Style Two"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:174
+msgid "Style Three (Footer)"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:176
+#: inc/custom-shortcodes/theme-shortcodes.php:463
+msgid "Social Icons Style"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:181
+msgid "Icon Size"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:200
+#: inc/custom-shortcodes/theme-shortcodes.php:470
+msgid "Colors"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:205
+msgid "Icon Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:211
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:218
+msgid "Backrgound Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:225
+msgid "Backrgound Hover Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:232
+#: inc/custom-shortcodes/theme-shortcodes.php:420
+msgid "Border Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:246
+msgid "Text Hover Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:265
+msgid "Link"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:270
+msgid "Social Icon"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:275
+msgid "Social Text"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:280
+msgid "Open New Tab?"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:281
+#: inc/widgets/recent-posts.php:85 visual-composer/lib/lib.php:55
+#: visual-composer/vc-setup.php:37
+msgid "Yes"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:282
+#: inc/widgets/recent-posts.php:86 visual-composer/lib/lib.php:56
+#: visual-composer/vc-setup.php:38
+msgid "No"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:293
+#: visual-composer/shortcodes/slider/slider-options.php:9
+msgid "Posts Slider"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:300
+#: visual-composer/shortcodes/slider/slider-options.php:20
+msgid "Style One"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:303
+msgid "Posts Slider Style"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:308
+#: visual-composer/shortcodes/blog/blog-options.php:45
+#: visual-composer/shortcodes/slider/slider-options.php:29
+msgid "Limit"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:313
+#: visual-composer/shortcodes/blog/blog-options.php:214
+#: visual-composer/shortcodes/slider/slider-options.php:110
+msgid "Show only certain categories?"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:314
+#: visual-composer/shortcodes/blog/blog-options.php:217
+#: visual-composer/shortcodes/slider/slider-options.php:113
+msgid "Enter category SLUGS (comma separated) you want to display."
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:319
+msgid "Show only certain posts?"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:330
+msgid "Enter post id's (comma separated) you want to display."
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:336
+#: inc/widgets/instagram-widget.php:167 inc/widgets/recent-posts.php:130
+#: visual-composer/shortcodes/blog/blog-options.php:203
+#: visual-composer/shortcodes/slider/slider-options.php:98
+msgid "None"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:337
+#: inc/widgets/recent-posts.php:131
+#: visual-composer/shortcodes/blog/blog-options.php:204
+#: visual-composer/shortcodes/slider/slider-options.php:99
+msgid "ID"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:338
+#: inc/widgets/recent-posts.php:133
+#: visual-composer/shortcodes/blog/blog-options.php:206
+#: visual-composer/shortcodes/slider/slider-options.php:100
+msgid "Title"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:339
+#: inc/custom-shortcodes/theme-shortcodes.php:371
+#: inc/widgets/recent-posts.php:136
+#: visual-composer/shortcodes/blog/blog-options.php:69
+#: visual-composer/shortcodes/blog/blog-options.php:207
+#: visual-composer/shortcodes/largepost/largepost-options.php:42
+#: visual-composer/shortcodes/slider/slider-options.php:53
+#: visual-composer/shortcodes/slider/slider-options.php:102
+msgid "Date"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:340
+#: inc/custom-shortcodes/theme-shortcodes.php:379
+#: inc/widgets/recent-posts.php:132
+#: visual-composer/shortcodes/blog/blog-options.php:77
+#: visual-composer/shortcodes/blog/blog-options.php:205
+#: visual-composer/shortcodes/largepost/largepost-options.php:50
+#: visual-composer/shortcodes/slider/slider-options.php:65
+#: visual-composer/shortcodes/slider/slider-options.php:101
+msgid "Author"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:341
+msgid "Align Based on Post ID Entered"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:343
+#: visual-composer/shortcodes/blog/blog-options.php:190
+#: visual-composer/shortcodes/slider/slider-options.php:85
+msgid "Order"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:350
+#: visual-composer/shortcodes/blog/blog-options.php:193
+#: visual-composer/shortcodes/slider/slider-options.php:88
+msgid "Asending"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:351
+#: visual-composer/shortcodes/blog/blog-options.php:194
+#: visual-composer/shortcodes/slider/slider-options.php:89
+msgid "Desending"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:353
+#: visual-composer/shortcodes/blog/blog-options.php:201
+#: visual-composer/shortcodes/slider/slider-options.php:96
+msgid "Order By"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:359
+#: visual-composer/shortcodes/blog/blog-options.php:54
+#: visual-composer/shortcodes/largepost/largepost-options.php:27
+#: visual-composer/shortcodes/slider/slider-options.php:38
+msgid "Meta's to Hide"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:364
+#: visual-composer/shortcodes/blog/blog-options.php:61
+#: visual-composer/shortcodes/largepost/largepost-options.php:34
+#: visual-composer/shortcodes/slider/slider-options.php:45
+msgid "Category"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:399
+msgid "Blockquote"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:410
+msgid "Content Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:415
+msgid "Left Border Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:425
+msgid "Background Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:432
+#: inc/import/importer/radium-importer.php:252
+msgid "Content"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:450
+msgid "List"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:460
+msgid "Ordered List"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:461
+msgid "Unordered List"
+msgstr ""
+
+#: inc/import/importer/parsers.php:42 inc/import/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: inc/import/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: inc/import/importer/parsers.php:67 inc/import/importer/parsers.php:72
+#: inc/import/importer/parsers.php:262 inc/import/importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:209
+msgid "Import Again"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:213
+#: inc/import/importer/radium-importer.php:227
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:239
+msgid " - One Click Install"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:240
+msgid "Install recommended plugins first!"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:247
+msgid "Import Type"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:248
+msgid "If you would like to import all or specific content, select here."
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:251
+msgid "All"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:253
+msgid "Widget"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:254
+msgid "Theme Option"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:266
+msgid "Done!"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:272
+msgid "Demo already imported!"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:293
+msgid "Important notes:"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:298
+msgid "Please note, this import process will take time. So, please be patient."
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:299
+msgid ""
+"Please make sure you've installed recommended plugins before you import this "
+"content."
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:300
+msgid ""
+"All images are demo purposes only. Images are not included in this import "
+"content."
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:309
+msgid "Don't Edit Parent Theme Files:"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:312
+msgid ""
+"Don't edit any files from parent theme! Use only a <strong>Child Theme</"
+"strong> files for your customizations!"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:313
+msgid ""
+"If you get future updates from our theme, you'll lose edited customization "
+"from your parent theme."
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:320
+msgid "Need Support?"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:324
+msgid ""
+"Have any doubts regarding this installation or any other issues? Please feel "
+"free to open a ticket in our support center."
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:325
+msgid "Docs"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:326
+msgid "Support"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:327
+msgid "Item Page"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:536
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:593
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:665
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:687
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:710
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:759
+msgid "Imported"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:762
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:769
+msgid "No Title"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:134
+#: inc/import/importer/wordpress-importer.php:143
+#: inc/import/importer/wordpress-importer.php:194
+#: inc/import/importer/wordpress-importer.php:198
+#: inc/import/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:505
+#: inc/import/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:16
+msgid ": Instagram Feed"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:19
+msgid " widget that displays instagram images."
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:30
+msgid "Instagram Feed"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:51
+msgid "Select Style"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:52
+msgid "Style :"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:64 inc/widgets/recent-posts.php:45
+#: inc/widgets/text-widget.php:40
+msgid "Title :"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:78
+msgid "Follow Us Text :"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:92
+msgid "User Name @:"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:106
+msgid "User Name Link (Optional):"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:120
+msgid "User ID :"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:133
+msgid "Access Token :"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:146 inc/widgets/recent-posts.php:72
+msgid "Limit :"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:147
+msgid "How many images want to show?"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:160
+msgid "Most Recent"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:161
+msgid "Least Recent"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:162
+msgid "Most Liked"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:163
+msgid "Least Liked"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:164
+msgid "Most Commented"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:165
+msgid "Least Commented"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:166 inc/widgets/recent-posts.php:138
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:169
+msgid "Select SortBy"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:170
+msgid "SortBy :"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:16
+msgid ": Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:19
+msgid " widget that displays recent posts."
+msgstr ""
+
+#: inc/widgets/recent-posts.php:30
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:59
+msgid "Select Post Type"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:60
+msgid "Post Type :"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:73
+msgid "How many posts want to show?"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:87
+msgid "Display Date :"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:99
+msgid "Category :"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:100
+msgid "Enter category slugs with comma(,) for multiple items"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:116
+msgid "Select Order"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:117
+msgid "Order :"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:134
+msgid "Name"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:135
+msgid "Type"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:137
+msgid "Modified"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:140
+msgid "Select OrderBy"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:141
+msgid "OrderBy :"
+msgstr ""
+
+#: inc/widgets/text-widget.php:16
+msgid ": Text Widget"
+msgstr ""
+
+#: inc/widgets/text-widget.php:19
+msgid " widget that displays contents."
+msgstr ""
+
+#: inc/widgets/text-widget.php:58
+msgid "Content :"
+msgstr ""
+
+#: inc/widgets/widget-extra-fields.php:14
+msgid "Custom Class:"
+msgstr ""
+
+#: inc/widgets/widget-extra-fields.php:16
+msgid "Add your custom classes."
+msgstr ""
+
+#: visual-composer/lib/lib.php:10
+msgid "by VictorThemes"
+msgstr ""
+
+#: visual-composer/lib/lib.php:29
+msgid "Extra class name"
+msgstr ""
+
+#: visual-composer/lib/lib.php:32
+msgid "Custom styled class name."
+msgstr ""
+
+#: visual-composer/lib/lib.php:40
+msgid "Element ID"
+msgstr ""
+
+#: visual-composer/lib/lib.php:43
+msgid "Enter your ID for this element. If you want."
+msgstr ""
+
+#: visual-composer/lib/lib.php:51
+msgid "Open New Tab? (Links)"
+msgstr ""
+
+#: visual-composer/pre_pages/pre-pages.php:14
+msgid "Large List Full Width Blog"
+msgstr ""
+
+#: visual-composer/pre_pages/pre-pages.php:26
+msgid "Large And List Blog"
+msgstr ""
+
+#: visual-composer/pre_pages/pre-pages.php:38
+msgid "Large Grid Full Width Blog"
+msgstr ""
+
+#: visual-composer/pre_pages/pre-pages.php:50
+msgid "Large And Grid Blog"
+msgstr ""
+
+#: visual-composer/pre_pages/pre-pages.php:62
+msgid "List – Full Width"
+msgstr ""
+
+#: visual-composer/pre_pages/pre-pages.php:74
+msgid "List – Sidebar"
+msgstr ""
+
+#: visual-composer/pre_pages/pre-pages.php:86
+msgid "Grid – Full Width"
+msgstr ""
+
+#: visual-composer/pre_pages/pre-pages.php:98
+msgid "Grid – Sidebar"
+msgstr ""
+
+#: visual-composer/pre_pages/pre-pages.php:110
+msgid "Standard – Full Width"
+msgstr ""
+
+#: visual-composer/pre_pages/pre-pages.php:122
+msgid "Standard – With Sidebar"
+msgstr ""
+
+#: visual-composer/pre_pages/pre-pages.php:134
+msgid "Full Width"
+msgstr ""
+
+#: visual-composer/pre_pages/pre-pages.php:183
+msgid "Contact Me"
+msgstr ""
+
+#: visual-composer/pre_pages/pre-pages.php:197
+msgid "About Me"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:9
+msgid "Blog"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:11
+msgid "Blog Styles"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:18
+msgid "Blog Style"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:20
+msgid "Style One (Grid)"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:21
+msgid "Style Two (List)"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:25
+msgid "Select your blog style."
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:29
+msgid "Columns"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:31
+msgid "Column One"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:32
+msgid "Column Two"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:33
+msgid "Column Three"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:37
+msgid "Select your blog column."
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:49
+#: visual-composer/shortcodes/slider/slider-options.php:33
+msgid "Enter the number of items to show."
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:85
+#: visual-composer/shortcodes/largepost/largepost-options.php:58
+msgid "Comments"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:94
+#: visual-composer/shortcodes/largepost/largepost-options.php:67
+msgid "Enable/Disable"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:101
+#: visual-composer/shortcodes/largepost/largepost-options.php:98
+msgid "Image Popup"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:109
+#: visual-composer/shortcodes/largepost/largepost-options.php:90
+msgid "Share"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:118
+#: visual-composer/shortcodes/largepost/largepost-options.php:74
+msgid "Excerpt"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:126
+#: visual-composer/shortcodes/blog/blog.php:74
+#: visual-composer/shortcodes/blog/blog.php:89
+#: visual-composer/shortcodes/largepost/largepost-options.php:82
+#: visual-composer/shortcodes/largepost/largepost.php:32
+#: visual-composer/shortcodes/largepost/largepost.php:44
+msgid "Read More"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:134
+msgid "Pagination"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:143
+#: visual-composer/shortcodes/largepost/largepost-options.php:107
+msgid "Excerpt Length"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:146
+msgid "Enter blog short content length."
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:155
+#: visual-composer/shortcodes/largepost/largepost-options.php:119
+msgid "Read More Button Text"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:158
+#: visual-composer/shortcodes/largepost/largepost-options.php:122
+msgid "Enter read more button text."
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:167
+msgid "Pagination Style"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:169
+msgid "Previous/Next"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:170
+msgid "Page Numbers"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:173
+msgid "Select blog pagination style."
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:183
+#: visual-composer/shortcodes/slider/slider-options.php:78
+msgid "Listing"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog-options.php:192
+msgid "Select Blog Order"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog.php:76
+msgid "Older Posts"
+msgstr ""
+
+#: visual-composer/shortcodes/blog/blog.php:77
+msgid "Newer Posts"
+msgstr ""
+
+#: visual-composer/shortcodes/largepost/largepost-options.php:9
+msgid "Large Post"
+msgstr ""
+
+#: visual-composer/shortcodes/largepost/largepost-options.php:11
+msgid "Large Post Styles"
+msgstr ""
+
+#: visual-composer/shortcodes/largepost/largepost-options.php:18
+msgid "Post ID"
+msgstr ""
+
+#: visual-composer/shortcodes/largepost/largepost-options.php:21
+msgid "Enter the post ID to display as large post."
+msgstr ""
+
+#: visual-composer/shortcodes/largepost/largepost-options.php:110
+msgid "Enter large_post short content length."
+msgstr ""
+
+#: visual-composer/shortcodes/slider/slider-options.php:11
+msgid "Posts Slider Styles"
+msgstr ""
+
+#: visual-composer/shortcodes/slider/slider-options.php:18
+msgid "Slider Style"
+msgstr ""
+
+#: visual-composer/shortcodes/slider/slider-options.php:25
+msgid "Select your slider style."
+msgstr ""
+
+#: visual-composer/shortcodes/slider/slider-options.php:87
+msgid "Select Slider Order"
+msgstr ""
+
+#: visual-composer/vc-setup.php:34
+msgid "Need Overlay Dotted Image?"
+msgstr ""
+
+#: visual-composer/vc-setup.php:35
+msgid "Enable it, if you want overlay dotted image."
+msgstr ""
+
+#: visual-composer/vc-setup.php:39 visual-composer/vc-setup.php:47
+msgid "Design Options"
+msgstr ""
+
+#: visual-composer/vc-setup.php:44
+msgid "Overlay Color"
+msgstr ""
+
+#: visual-composer/vc-setup.php:45
+msgid "Pick your overlay color, make sure you've controlled opacity."
+msgstr ""
+
+#: visual-composer/vc-setup.php:56
+msgid "Text Left"
+msgstr ""
+
+#: visual-composer/vc-setup.php:57
+msgid "Text Right"
+msgstr ""
+
+#: visual-composer/vc-setup.php:58
+msgid "Text Center"
+msgstr ""
+
+#: visual-composer/vc-setup.php:60
+msgid "Text Alignment"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ailsa Core"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://victorthemes.com/themes/ailsa"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Plugin to contain shortcodes and custom post types for this ailsa theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "VictorThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://victorthemes.com"
+msgstr ""
